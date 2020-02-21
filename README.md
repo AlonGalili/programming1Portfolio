@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Alon Galili's programming portfolio
 
 You can use the [editor on GitHub](https://github.com/AlonGalili/programming1Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
